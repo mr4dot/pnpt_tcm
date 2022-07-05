@@ -1,5 +1,5 @@
 # Day 1 
-** Basics Commands **
+**Basics Commands**
 
 ```List of commands taken ```
 ------------------------------------------------------------
